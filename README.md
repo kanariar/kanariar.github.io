@@ -1,3 +1,3 @@
-##過去の遺産
+過去の遺産
 
 # kanariar.github.io
